@@ -1,0 +1,26 @@
+.ticky {
+    background-color: rgb(39, 39, 53);
+    position: sticky;
+    top: 0;
+    height: 70px;
+    width: 100%;
+}
+
+h1 {
+    padding: 12px;
+    color: white;
+    position: relative;
+    text-align: center;
+    font-size: 40px;
+}
+
+summary {
+    padding: 12px;
+    color: black;
+    position: relative;
+    font-size: 25px;
+}
+
+li, p {
+    font-size: 20px;
+}
